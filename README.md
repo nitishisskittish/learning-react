@@ -1,2 +1,2 @@
 # learning-react
-Created with CodeSandbox
+Just me reviewing react concepts in school
